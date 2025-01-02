@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+.dashboard {
+  display: flex; /* Flex layout for the dashboard */
+  height: 100vh; /* Full height of the viewport */
+}
+
+body{
+  overflow: hidden;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+
+
