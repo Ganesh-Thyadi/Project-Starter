@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_752595fd3a0cb07079a6699231da541c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_752595fd3a0cb07079a6699231da541c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_752595fd3a0cb07079a6699231da541c = L.map(
+                "map_752595fd3a0cb07079a6699231da541c",
+                {
+                    center: [34.465475, -100.30127499999999],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "maxBounds": null,
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_931d5fd2741c47b6f92c7fd851d3a521 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_931d5fd2741c47b6f92c7fd851d3a521.addTo(map_752595fd3a0cb07079a6699231da541c);
+        
+    
+            var circle_marker_08724352649ad4339e370c2c50052c03 = L.circleMarker(
+                [25.7617, -80.1918],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_752595fd3a0cb07079a6699231da541c);
+        
+    
+        var popup_d57e4ce7382d544ddeb568a06f5bf41a = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_c43738ba7c927dd146ec06ffeb400b29 = $(`<div id="html_c43738ba7c927dd146ec06ffeb400b29" style="width: 100.0%; height: 100.0%;">Region: North<br>Price: $300000</div>`)[0];
+                popup_d57e4ce7382d544ddeb568a06f5bf41a.setContent(html_c43738ba7c927dd146ec06ffeb400b29);
+            
+        
+
+        circle_marker_08724352649ad4339e370c2c50052c03.bindPopup(popup_d57e4ce7382d544ddeb568a06f5bf41a)
+        ;
+
+        
+    
+    
+            var circle_marker_412c13d6d4be9f5399a078d8902fc965 = L.circleMarker(
+                [34.0522, -118.2437],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_752595fd3a0cb07079a6699231da541c);
+        
+    
+        var popup_62e91bf8d56e62cc81da0638cb06e339 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_3bee29e9b68a5f7b2a44b17b2ea045ca = $(`<div id="html_3bee29e9b68a5f7b2a44b17b2ea045ca" style="width: 100.0%; height: 100.0%;">Region: South<br>Price: $200000</div>`)[0];
+                popup_62e91bf8d56e62cc81da0638cb06e339.setContent(html_3bee29e9b68a5f7b2a44b17b2ea045ca);
+            
+        
+
+        circle_marker_412c13d6d4be9f5399a078d8902fc965.bindPopup(popup_62e91bf8d56e62cc81da0638cb06e339)
+        ;
+
+        
+    
+    
+            var circle_marker_be83e3e44d8651be13a67013ca984bc6 = L.circleMarker(
+                [41.8781, -87.6298],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_752595fd3a0cb07079a6699231da541c);
+        
+    
+        var popup_b8da63989c31c5904a0c65a73f0dab59 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_e9bcbc7f629f4edb000e038aa6fbe33c = $(`<div id="html_e9bcbc7f629f4edb000e038aa6fbe33c" style="width: 100.0%; height: 100.0%;">Region: East<br>Price: $400000</div>`)[0];
+                popup_b8da63989c31c5904a0c65a73f0dab59.setContent(html_e9bcbc7f629f4edb000e038aa6fbe33c);
+            
+        
+
+        circle_marker_be83e3e44d8651be13a67013ca984bc6.bindPopup(popup_b8da63989c31c5904a0c65a73f0dab59)
+        ;
+
+        
+    
+    
+            var circle_marker_3074cca7fcd6d5e39e6c45137d051b89 = L.circleMarker(
+                [36.1699, -115.1398],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_752595fd3a0cb07079a6699231da541c);
+        
+    
+        var popup_f5eec1412ee154fc41c9d03654ba08be = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_94c7179758a222305b570bd7ddfc80bf = $(`<div id="html_94c7179758a222305b570bd7ddfc80bf" style="width: 100.0%; height: 100.0%;">Region: West<br>Price: $500000</div>`)[0];
+                popup_f5eec1412ee154fc41c9d03654ba08be.setContent(html_94c7179758a222305b570bd7ddfc80bf);
+            
+        
+
+        circle_marker_3074cca7fcd6d5e39e6c45137d051b89.bindPopup(popup_f5eec1412ee154fc41c9d03654ba08be)
+        ;
+
+        
+    
+</script>
+</html>

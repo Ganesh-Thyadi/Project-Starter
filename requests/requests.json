@@ -1,0 +1,21 @@
+[
+  {
+    "Category": "Cat 1",
+    "Subcategories": [
+      {
+        "Subcategory": "Supervised learning",
+        "contents": [
+          {
+            "name": "Sample",
+            "description": "Sample desc",
+            "documentation": "Cat 1/Supervised learning/Sample/Sample docs.pdf",
+            "tags": [
+              "Tag 1"
+            ],
+            "requested": true
+          }
+        ]
+      }
+    ]
+  }
+]

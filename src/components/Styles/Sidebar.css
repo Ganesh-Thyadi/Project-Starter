@@ -1,123 +1,118 @@
-
-.sidebar {
-  width: 20%;
-  background-color: #ffffff;
+.topbar {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
   padding: 20px;
   display: flex;
-  flex-direction: column;
   justify-content: space-between;
-  height: 100vh;
-
+  align-items: center;
   font-family: 'JetBrains Mono', monospace;
   z-index: 9999;
+  position: fixed;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.top-section {
-  margin-bottom: 20px;
+button span{
+  display: hidden;
+}
+
+
+button svg{
+  display: hidden;
+}
+
+button svg:hover{
+  display: flex;
 }
 
 .logo {
   font-size: 20px;
   font-weight: bold;
-  margin-bottom: 30px;
-  padding: auto;
   display: flex;
-  text-align: center;
   justify-content: center;
   align-items: center;
-  flex-direction: row;
-  margin-left: 10px;
-  margin-right: 10px;
+  gap: 10px;
 }
 
-.logo h2{
+.logo h2 {
   margin-left: 10px;
   font-size: 20px;
-  /* font-weight: 600; */
-  padding: 10px;
 }
 
-.logo span{
+.logo span {
   font-size: 30px;
   font-weight: bold;
 }
 
+.tabs {
+  display: flex;
+  justify-content: center; /* Center the buttons */
+  gap: 20px;
+  width: 100%; /* Ensure the container takes up full width */
+}
 
-.search {
+.tabs button {
   display: flex;
   align-items: center;
-  gap: 10px;
-  background-color: #cecece;
+  justify-content: center;
+  gap: 0px;
   padding: 10px;
-  border-radius: 5px;
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
-}
-
-.search input {
-  flex: 1;
-  border: none;
-  padding: 10px;
-  color: #4A4A4A;
-font-weight: bold;
-font-family: 'JetBrains Mono', monospace;
-  background-color: #cecece;
-  outline: none;
-}
-
-
-.search svg {
-  color: #000000;
-   margin: 10px;
-}
-.search input::placeholder {
-    color: #4a4a4a88;
-    font-family: 'JetBrains Mono', monospace;
-    font-weight: bold;
-  }
-.center-section {
-  flex-grow: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  
-}
-
-.bottom-section {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.sidebar button {
-  margin-left: 10px;
-  margin-right: 10px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 16px;
   border: none;
   background: none;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 0px;
+  border-radius: 10px;
   font-weight: bold;
-  color: #333;
-  font-family: 'JetBrains Mono', monospace;
-}
-
-.sidebar button {
-  transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.sidebar button:hover {
-  background-color: #ddd;
   color: #000;
+  background-color: #fff;
+  font-family: 'JetBrains Mono', monospace;
+  width: fit-content;
+  text-align: center;
+  transition: all 0.3s ease;
 }
 
-.sidebar button:focus {
+.tabs button svg {
+  transition: opacity 0.3s ease;
+  opacity: 1; /* SVG is visible by default */
+}
+
+.tabs button span {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.tabs button:hover {
   background-color: #ccc;
+  font-size: 15px;
+  gap:10px;
+  transition: all 0.3s ease;
+  color: #fff;
 }
 
-.sidebar button.active {
+.tabs button:hover svg {
+  opacity: 1; /* Keep SVG visible when hovered */
+}
+
+.tabs button:hover span {
+  opacity: 1;
+  visibility: visible;
+}
+
+.tabs button.active {
   background-color: #1C63FB;
   color: #fff;
+}
+
+.tabs button.active span {
+  opacity: 1;
+  visibility: visible;
+}
+
+.tabs button:focus {
+  outline: none;
+
+  box-shadow: 0 0 0 3px rgba(28, 99, 251, 0.5);
+  transition: box-shadow all 0.3s ease;
+  background-color: #1C63FB;
 }

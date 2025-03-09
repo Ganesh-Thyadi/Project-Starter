@@ -1,0 +1,1726 @@
+[
+  {
+    "Category": "Data Processing",
+    "Subcategories": [
+      {
+        "Subcategory": "Data Handling",
+        "contents": [
+          {
+            "name": "Data Handling",
+            "description": "A detailed resource on Data Handling in the context of Data Handling.",
+            "documentation": "Data Processing\\Data Handling\\Data Handling.pdf",
+            "tags": [
+              "Data"
+            ],
+            "path": "Data Processing\\Data Handling\\data_handling.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Data Visualisation",
+        "contents": [
+          {
+            "name": "Data Visualisation",
+            "description": "A detailed resource on Data Visualisation in the context of Data Visualisation.",
+            "documentation": "",
+            "tags": [
+              "Data"
+            ],
+            "path": "Data Processing\\Data Visualisation\\expanded_visualizations_notebook.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "EDA",
+        "contents": [
+          {
+            "name": "Distribution Analysis",
+            "description": "A detailed resource on Distribution Analysis in the context of EDA.",
+            "documentation": "Data Processing\\EDA\\Distribution Analysis\\Titanic_Distribution_Analysis.pdf",
+            "tags": [
+              "Distribution",
+              "EDA"
+            ],
+            "path": "Data Processing\\EDA\\Distribution Analysis\\Titanic_Distribution_Analysis.ipynb"
+          },
+          {
+            "name": "EDA",
+            "description": "A detailed resource on EDA in the context of EDA.",
+            "documentation": "Data Processing\\EDA\\EDA.pdf",
+            "tags": [
+              "EDA"
+            ],
+            "path": "Data Processing\\EDA\\eda.ipynb"
+          },
+          {
+            "name": "Outlier Detection",
+            "description": "A detailed resource on Outlier Detection in the context of EDA.",
+            "documentation": "Data Processing\\EDA\\Outlier Detection\\Outlier_Detection.pdf",
+            "tags": [
+              "EDA",
+              "Outlier"
+            ],
+            "path": "Data Processing\\EDA\\Outlier Detection\\Outlier_Detection.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Feature Engineering and selection",
+        "contents": [
+          {
+            "name": "Feature Engineering and selection",
+            "description": "A detailed resource on Feature Engineering and selection in the context of Feature Engineering and selection.",
+            "documentation": "Data Processing\\Feature Engineering and selection\\Feature_Engineering_Selection.pdf",
+            "tags": [
+              "Feature"
+            ],
+            "path": "Data Processing\\Feature Engineering and selection\\Feature_Engineering_Selection.ipynb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Deep Learning",
+    "Subcategories": [
+      {
+        "Subcategory": "Advanced Neural Network Models",
+        "contents": [
+          {
+            "name": "Neural Architecture Search (NAS)",
+            "description": "A detailed resource on Neural Architecture Search (NAS) in the context of Advanced Neural Network Models.",
+            "documentation": "Deep Learning\\Advanced Neural Network Models\\Neural Architecture Search (NAS)\\Neural Architecture Search (NAS).pdf",
+            "tags": [
+              "Neural",
+              "Advanced"
+            ],
+            "path": "Deep Learning\\Advanced Neural Network Models\\Neural Architecture Search (NAS)\\Neural Architecture Search (NAS).ipynb"
+          },
+          {
+            "name": "Neural Ordinary Differential Equations (NODE)",
+            "description": "A detailed resource on Neural Ordinary Differential Equations (NODE) in the context of Advanced Neural Network Models.",
+            "documentation": "Deep Learning\\Advanced Neural Network Models\\Neural Ordinary Differential Equations (NODE)\\Neural Ordinary Differential Equations (NODE).pdf",
+            "tags": [
+              "Neural",
+              "Advanced"
+            ],
+            "path": "Deep Learning\\Advanced Neural Network Models\\Neural Ordinary Differential Equations (NODE)\\Neural Ordinary Differential Equations (NODE).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Attention Mechanisms",
+        "contents": [
+          {
+            "name": "Additive Attention",
+            "description": "A detailed resource on Additive Attention in the context of Attention Mechanisms.",
+            "documentation": "Deep Learning\\Attention Mechanisms\\Additive Attention\\Additive Attention Mechanism.pdf",
+            "tags": [
+              "Additive",
+              "Attention"
+            ],
+            "path": "Deep Learning\\Attention Mechanisms\\Additive Attention\\Additive Attention.ipynb"
+          },
+          {
+            "name": "Multi-Head Attention",
+            "description": "A detailed resource on Multi-Head Attention in the context of Attention Mechanisms.",
+            "documentation": "Deep Learning\\Attention Mechanisms\\Multi-Head Attention\\Multi-Head Attention Mechanism.pdf",
+            "tags": [
+              "Attention",
+              "Multi"
+            ],
+            "path": "Deep Learning\\Attention Mechanisms\\Multi-Head Attention\\Multi-Head Attention.ipynb"
+          },
+          {
+            "name": "Scaled Dot-Product Attention",
+            "description": "A detailed resource on Scaled Dot-Product Attention in the context of Attention Mechanisms.",
+            "documentation": "Deep Learning\\Attention Mechanisms\\Scaled Dot-Product Attention\\Scaled Dot-Product Attention.pdf",
+            "tags": [
+              "Scaled",
+              "Attention"
+            ],
+            "path": "Deep Learning\\Attention Mechanisms\\Scaled Dot-Product Attention\\Scaled Dot-Product Attention.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Autoencoders",
+        "contents": [
+          {
+            "name": "Contractive Autoencoder",
+            "description": "A detailed resource on Contractive Autoencoder in the context of Autoencoders.",
+            "documentation": "Deep Learning\\Autoencoders\\Contractive Autoencoder\\Contractive Autoencoder (CAE).pdf",
+            "tags": [
+              "Contractive",
+              "Autoencoders"
+            ],
+            "path": "Deep Learning\\Autoencoders\\Contractive Autoencoder\\Contractive Autoencoder.ipynb"
+          },
+          {
+            "name": "Denoising Autoencoder",
+            "description": "A detailed resource on Denoising Autoencoder in the context of Autoencoders.",
+            "documentation": "Deep Learning\\Autoencoders\\Denoising Autoencoder\\Denoising Autoencoder (DAE).pdf",
+            "tags": [
+              "Denoising",
+              "Autoencoders"
+            ],
+            "path": "Deep Learning\\Autoencoders\\Denoising Autoencoder\\Denoising Autoencoder.ipynb"
+          },
+          {
+            "name": "Sparse Autoencoder",
+            "description": "A detailed resource on Sparse Autoencoder in the context of Autoencoders.",
+            "documentation": "Deep Learning\\Autoencoders\\Sparse Autoencoder\\Sparse Autoencoder.pdf",
+            "tags": [
+              "Autoencoders",
+              "Sparse"
+            ],
+            "path": "Deep Learning\\Autoencoders\\Sparse Autoencoder\\Sparse Autoencoder.ipynb"
+          },
+          {
+            "name": "Variational Autoencoder (VAE)",
+            "description": "A detailed resource on Variational Autoencoder (VAE) in the context of Autoencoders.",
+            "documentation": "Deep Learning\\Autoencoders\\Variational Autoencoder (VAE)\\Variational Autoencoder (VAE).pdf",
+            "tags": [
+              "Variational",
+              "Autoencoders"
+            ],
+            "path": "Deep Learning\\Autoencoders\\Variational Autoencoder (VAE)\\Variational Autoencoder (VAE).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Capsule Networks",
+        "contents": [
+          {
+            "name": "Capsule Networks",
+            "description": "A detailed resource on Capsule Networks in the context of Capsule Networks.",
+            "documentation": "Deep Learning\\Capsule Networks\\Capsule Networks.pdf",
+            "tags": [
+              "Capsule"
+            ],
+            "path": "Deep Learning\\Capsule Networks\\Capsule Networks.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Convolutional Neural Networks (CNN)",
+        "contents": [
+          {
+            "name": "AlexNet",
+            "description": "A detailed resource on AlexNet in the context of Convolutional Neural Networks (CNN).",
+            "documentation": "Deep Learning\\Convolutional Neural Networks (CNN)\\AlexNet\\AlexNet.pdf",
+            "tags": [
+              "Convolutional",
+              "AlexNet"
+            ],
+            "path": "Deep Learning\\Convolutional Neural Networks (CNN)\\AlexNet\\AlexNet.ipynb"
+          },
+          {
+            "name": "DenseNet",
+            "description": "A detailed resource on DenseNet in the context of Convolutional Neural Networks (CNN).",
+            "documentation": "Deep Learning\\Convolutional Neural Networks (CNN)\\DenseNet\\DenseNet.pdf",
+            "tags": [
+              "Convolutional",
+              "DenseNet"
+            ],
+            "path": "Deep Learning\\Convolutional Neural Networks (CNN)\\DenseNet\\DenseNet.ipynb"
+          },
+          {
+            "name": "EfficientNet",
+            "description": "A detailed resource on EfficientNet in the context of Convolutional Neural Networks (CNN).",
+            "documentation": "Deep Learning\\Convolutional Neural Networks (CNN)\\EfficientNet\\EfficientNet.pdf",
+            "tags": [
+              "Convolutional",
+              "EfficientNet"
+            ],
+            "path": "Deep Learning\\Convolutional Neural Networks (CNN)\\EfficientNet\\EfficientNet.ipynb"
+          },
+          {
+            "name": "Inception Network",
+            "description": "A detailed resource on Inception Network in the context of Convolutional Neural Networks (CNN).",
+            "documentation": "Deep Learning\\Convolutional Neural Networks (CNN)\\Inception Network\\Inception Network.pdf",
+            "tags": [
+              "Convolutional",
+              "Inception"
+            ],
+            "path": "Deep Learning\\Convolutional Neural Networks (CNN)\\Inception Network\\Inception Network.ipynb"
+          },
+          {
+            "name": "LeNet",
+            "description": "A detailed resource on LeNet in the context of Convolutional Neural Networks (CNN).",
+            "documentation": "Deep Learning\\Convolutional Neural Networks (CNN)\\LeNet\\LeNet.pdf",
+            "tags": [
+              "Convolutional",
+              "LeNet"
+            ],
+            "path": "Deep Learning\\Convolutional Neural Networks (CNN)\\LeNet\\LeNet.ipynb"
+          },
+          {
+            "name": "MobileNet",
+            "description": "A detailed resource on MobileNet in the context of Convolutional Neural Networks (CNN).",
+            "documentation": "Deep Learning\\Convolutional Neural Networks (CNN)\\MobileNet\\MobileNet.pdf",
+            "tags": [
+              "Convolutional",
+              "MobileNet"
+            ],
+            "path": "Deep Learning\\Convolutional Neural Networks (CNN)\\MobileNet\\MobileNet.ipynb"
+          },
+          {
+            "name": "ResNet",
+            "description": "A detailed resource on ResNet in the context of Convolutional Neural Networks (CNN).",
+            "documentation": "Deep Learning\\Convolutional Neural Networks (CNN)\\ResNet\\ResNet.pdf",
+            "tags": [
+              "Convolutional",
+              "ResNet"
+            ],
+            "path": "Deep Learning\\Convolutional Neural Networks (CNN)\\ResNet\\ResNet.ipynb"
+          },
+          {
+            "name": "VGGNet",
+            "description": "A detailed resource on VGGNet in the context of Convolutional Neural Networks (CNN).",
+            "documentation": "Deep Learning\\Convolutional Neural Networks (CNN)\\VGGNet\\VGGNet.pdf",
+            "tags": [
+              "Convolutional",
+              "VGGNet"
+            ],
+            "path": "Deep Learning\\Convolutional Neural Networks (CNN)\\VGGNet\\VGGNet.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Feedforward Neural Networks",
+        "contents": [
+          {
+            "name": "Feedforward Neural Networks",
+            "description": "A detailed resource on Feedforward Neural Networks in the context of Feedforward Neural Networks.",
+            "documentation": "Deep Learning\\Feedforward Neural Networks\\Multi-Layer Perceptron (MLP).pdf",
+            "tags": [
+              "Feedforward"
+            ],
+            "path": "Deep Learning\\Feedforward Neural Networks\\Multi-Layer Perceptron (MLP).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Generative Models",
+        "contents": [
+          {
+            "name": "Conditional GAN (cGAN)",
+            "description": "A detailed resource on Conditional GAN (cGAN) in the context of Generative Models.",
+            "documentation": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\Conditional GAN (cGAN)\\cGAN.pdf",
+            "tags": [
+              "Generative",
+              "Conditional"
+            ],
+            "path": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\Conditional GAN (cGAN)\\Conditional GAN (cGAN).ipynb"
+          },
+          {
+            "name": "Deep Convolutional GAN (DCGAN)",
+            "description": "A detailed resource on Deep Convolutional GAN (DCGAN) in the context of Generative Models.",
+            "documentation": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\Deep Convolutional GAN (DCGAN)\\DCGAN.pdf",
+            "tags": [
+              "Deep",
+              "Generative"
+            ],
+            "path": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\Deep Convolutional GAN (DCGAN)\\Deep Convolutional GAN (DCGAN).ipynb"
+          },
+          {
+            "name": "StyleGAN",
+            "description": "A detailed resource on StyleGAN in the context of Generative Models.",
+            "documentation": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\StyleGAN\\StyleGAN.pdf",
+            "tags": [
+              "Generative",
+              "StyleGAN"
+            ],
+            "path": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\StyleGAN\\StyleGAN.ipynb"
+          },
+          {
+            "name": "Vanilla GAN",
+            "description": "A detailed resource on Vanilla GAN in the context of Generative Models.",
+            "documentation": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\Vanilla GAN\\Vanilla.pdf",
+            "tags": [
+              "Generative",
+              "Vanilla"
+            ],
+            "path": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\Vanilla GAN\\Vanilla GAN.ipynb"
+          },
+          {
+            "name": "Wasserstein GAN (WGAN)",
+            "description": "A detailed resource on Wasserstein GAN (WGAN) in the context of Generative Models.",
+            "documentation": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\Wasserstein GAN (WGAN)\\WGAN.pdf",
+            "tags": [
+              "Wasserstein",
+              "Generative"
+            ],
+            "path": "Deep Learning\\Generative Models\\Generative Adversarial Networks (GANs)\\Wasserstein GAN (WGAN)\\Wasserstein GAN (WGAN).ipynb"
+          },
+          {
+            "name": "Variational Autoencoders (VAE)",
+            "description": "A detailed resource on Variational Autoencoders (VAE) in the context of Generative Models.",
+            "documentation": "Deep Learning\\Generative Models\\Variational Autoencoders (VAE)\\Variational Autoencoders (VAE).pdf",
+            "tags": [
+              "Generative",
+              "Variational"
+            ],
+            "path": "Deep Learning\\Generative Models\\Variational Autoencoders (VAE)\\Variational Autoencoders (VAE).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Graph Neural Networks (GNN)",
+        "contents": [
+          {
+            "name": "Graph Attention Networks (GAT)",
+            "description": "A detailed resource on Graph Attention Networks (GAT) in the context of Graph Neural Networks (GNN).",
+            "documentation": "Deep Learning\\Graph Neural Networks (GNN)\\Graph Attention Networks (GAT)\\GAT.pdf",
+            "tags": [
+              "Graph"
+            ],
+            "path": "Deep Learning\\Graph Neural Networks (GNN)\\Graph Attention Networks (GAT)\\Graph Attention Networks (GAT).ipynb"
+          },
+          {
+            "name": "Graph Convolutional Networks (GCN)",
+            "description": "A detailed resource on Graph Convolutional Networks (GCN) in the context of Graph Neural Networks (GNN).",
+            "documentation": "Deep Learning\\Graph Neural Networks (GNN)\\Graph Convolutional Networks (GCN)\\GCN.pdf",
+            "tags": [
+              "Graph"
+            ],
+            "path": "Deep Learning\\Graph Neural Networks (GNN)\\Graph Convolutional Networks (GCN)\\Graph Convolutional Networks (GCN).ipynb"
+          },
+          {
+            "name": "Graph Isomorphism Networks (GIN)",
+            "description": "A detailed resource on Graph Isomorphism Networks (GIN) in the context of Graph Neural Networks (GNN).",
+            "documentation": "Deep Learning\\Graph Neural Networks (GNN)\\Graph Isomorphism Networks (GIN)\\GIN.pdf",
+            "tags": [
+              "Graph"
+            ],
+            "path": "Deep Learning\\Graph Neural Networks (GNN)\\Graph Isomorphism Networks (GIN)\\Graph Isomorphism Networks (GIN).ipynb"
+          },
+          {
+            "name": "Spatial-Temporal GNNs",
+            "description": "A detailed resource on Spatial-Temporal GNNs in the context of Graph Neural Networks (GNN).",
+            "documentation": "Deep Learning\\Graph Neural Networks (GNN)\\Spatial-Temporal GNNs\\STGNNs.pdf",
+            "tags": [
+              "Spatial",
+              "Graph"
+            ],
+            "path": "Deep Learning\\Graph Neural Networks (GNN)\\Spatial-Temporal GNNs\\Spatial-Temporal Graph Neural Networks (ST-GNNs).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Hybrid Models",
+        "contents": [
+          {
+            "name": "CNN-LSTM",
+            "description": "A detailed resource on CNN-LSTM in the context of Hybrid Models.",
+            "documentation": "Deep Learning\\Hybrid Models\\CNN-LSTM\\CNN-LSTM.pdf",
+            "tags": [
+              "Hybrid",
+              "CNN"
+            ],
+            "path": "Deep Learning\\Hybrid Models\\CNN-LSTM\\CNN-LSTM.ipynb"
+          },
+          {
+            "name": "Encoder-Decoder Architecture",
+            "description": "A detailed resource on Encoder-Decoder Architecture in the context of Hybrid Models.",
+            "documentation": "Deep Learning\\Hybrid Models\\Encoder-Decoder Architecture\\Encoder-Decoder Architecture.pdf",
+            "tags": [
+              "Encoder",
+              "Hybrid"
+            ],
+            "path": "Deep Learning\\Hybrid Models\\Encoder-Decoder Architecture\\Encoder-Decoder Architecture.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Recurrent Neural Networks (RNN)",
+        "contents": [
+          {
+            "name": "Basic RNN",
+            "description": "A detailed resource on Basic RNN in the context of Recurrent Neural Networks (RNN).",
+            "documentation": "Deep Learning\\Recurrent Neural Networks (RNN)\\Basic RNN\\BRNN.pdf",
+            "tags": [
+              "Basic",
+              "Recurrent"
+            ],
+            "path": "Deep Learning\\Recurrent Neural Networks (RNN)\\Basic RNN\\Basic RNN.ipynb"
+          },
+          {
+            "name": "Bi-directional GRU",
+            "description": "A detailed resource on Bi-directional GRU in the context of Recurrent Neural Networks (RNN).",
+            "documentation": "Deep Learning\\Recurrent Neural Networks (RNN)\\Bi-directional GRU\\Bi-GRU.pdf",
+            "tags": [
+              "Bi",
+              "Recurrent"
+            ],
+            "path": "Deep Learning\\Recurrent Neural Networks (RNN)\\Bi-directional GRU\\Bi-directional GRU.ipynb"
+          },
+          {
+            "name": "Bi-directional LSTM",
+            "description": "A detailed resource on Bi-directional LSTM in the context of Recurrent Neural Networks (RNN).",
+            "documentation": "Deep Learning\\Recurrent Neural Networks (RNN)\\Bi-directional LSTM\\BiLSTM.pdf",
+            "tags": [
+              "Bi",
+              "Recurrent"
+            ],
+            "path": "Deep Learning\\Recurrent Neural Networks (RNN)\\Bi-directional LSTM\\Bi-directional LSTM.ipynb"
+          },
+          {
+            "name": "Bi-directional RNN",
+            "description": "A detailed resource on Bi-directional RNN in the context of Recurrent Neural Networks (RNN).",
+            "documentation": "Deep Learning\\Recurrent Neural Networks (RNN)\\Bi-directional RNN\\BiRNN.pdf",
+            "tags": [
+              "Bi",
+              "Recurrent"
+            ],
+            "path": "Deep Learning\\Recurrent Neural Networks (RNN)\\Bi-directional RNN\\Bi-directional RNN.ipynb"
+          },
+          {
+            "name": "Gated Recurrent Unit (GRU)",
+            "description": "A detailed resource on Gated Recurrent Unit (GRU) in the context of Recurrent Neural Networks (RNN).",
+            "documentation": "Deep Learning\\Recurrent Neural Networks (RNN)\\Gated Recurrent Unit (GRU)\\GRU.pdf",
+            "tags": [
+              "Gated",
+              "Recurrent"
+            ],
+            "path": "Deep Learning\\Recurrent Neural Networks (RNN)\\Gated Recurrent Unit (GRU)\\Gated Recurrent Unit (GRU).ipynb"
+          },
+          {
+            "name": "Long Short-Term Memory (LSTM)",
+            "description": "A detailed resource on Long Short-Term Memory (LSTM) in the context of Recurrent Neural Networks (RNN).",
+            "documentation": "Deep Learning\\Recurrent Neural Networks (RNN)\\Long Short-Term Memory (LSTM)\\LSTM.pdf",
+            "tags": [
+              "Long",
+              "Recurrent"
+            ],
+            "path": "Deep Learning\\Recurrent Neural Networks (RNN)\\Long Short-Term Memory (LSTM)\\Long Short-Term Memory (LSTM).ipynb"
+          },
+          {
+            "name": "Sequence-to-Sequence Networks",
+            "description": "A detailed resource on Sequence-to-Sequence Networks in the context of Recurrent Neural Networks (RNN).",
+            "documentation": "Deep Learning\\Recurrent Neural Networks (RNN)\\Sequence-to-Sequence Networks\\Seq2Seq.pdf",
+            "tags": [
+              "Sequence",
+              "Recurrent"
+            ],
+            "path": "Deep Learning\\Recurrent Neural Networks (RNN)\\Sequence-to-Sequence Networks\\Sequence-to-Sequence Networks.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Reinforcement Learning",
+        "contents": [
+          {
+            "name": "Actor-Critic",
+            "description": "A detailed resource on Actor-Critic in the context of Reinforcement Learning.",
+            "documentation": "Deep Learning\\Reinforcement Learning\\Actor-Critic\\Actor-Critic.pdf",
+            "tags": [
+              "Reinforcement",
+              "Actor"
+            ],
+            "path": "Deep Learning\\Reinforcement Learning\\Actor-Critic\\Actor-Critic.ipynb"
+          },
+          {
+            "name": "Deep Deterministic Policy Gradient (DDPG)",
+            "description": "A detailed resource on Deep Deterministic Policy Gradient (DDPG) in the context of Reinforcement Learning.",
+            "documentation": "Deep Learning\\Reinforcement Learning\\Deep Deterministic Policy Gradient (DDPG)\\DDPG.pdf",
+            "tags": [
+              "Deep",
+              "Reinforcement"
+            ],
+            "path": "Deep Learning\\Reinforcement Learning\\Deep Deterministic Policy Gradient (DDPG)\\Deep Deterministic Policy Gradient (DDPG).ipynb"
+          },
+          {
+            "name": "Deep Q-Networks (DQN)",
+            "description": "A detailed resource on Deep Q-Networks (DQN) in the context of Reinforcement Learning.",
+            "documentation": "Deep Learning\\Reinforcement Learning\\Deep Q-Networks (DQN)\\DQN.pdf",
+            "tags": [
+              "Deep",
+              "Reinforcement"
+            ],
+            "path": "Deep Learning\\Reinforcement Learning\\Deep Q-Networks (DQN)\\Deep Q-Networks (DQN).ipynb"
+          },
+          {
+            "name": "Double DQN",
+            "description": "A detailed resource on Double DQN in the context of Reinforcement Learning.",
+            "documentation": "Deep Learning\\Reinforcement Learning\\Double DQN\\Double Deep Q-Network.pdf",
+            "tags": [
+              "Reinforcement",
+              "Double"
+            ],
+            "path": "Deep Learning\\Reinforcement Learning\\Double DQN\\Double DQN.ipynb"
+          },
+          {
+            "name": "Dueling DQN",
+            "description": "A detailed resource on Dueling DQN in the context of Reinforcement Learning.",
+            "documentation": "Deep Learning\\Reinforcement Learning\\Dueling DQN\\Dueling DQN.pdf",
+            "tags": [
+              "Reinforcement",
+              "Dueling"
+            ],
+            "path": "Deep Learning\\Reinforcement Learning\\Dueling DQN\\Dueling DQN.ipynb"
+          },
+          {
+            "name": "Proximal Policy Optimization (PPO)",
+            "description": "A detailed resource on Proximal Policy Optimization (PPO) in the context of Reinforcement Learning.",
+            "documentation": "Deep Learning\\Reinforcement Learning\\Proximal Policy Optimization (PPO)\\PPO.pdf",
+            "tags": [
+              "Reinforcement",
+              "Proximal"
+            ],
+            "path": "Deep Learning\\Reinforcement Learning\\Proximal Policy Optimization (PPO)\\Proximal Policy Optimization (PPO).ipynb"
+          },
+          {
+            "name": "Soft Actor-Critic (SAC)",
+            "description": "A detailed resource on Soft Actor-Critic (SAC) in the context of Reinforcement Learning.",
+            "documentation": "Deep Learning\\Reinforcement Learning\\Soft Actor-Critic (SAC)\\Soft Actor-Critic (SAC).pdf",
+            "tags": [
+              "Reinforcement",
+              "Soft"
+            ],
+            "path": "Deep Learning\\Reinforcement Learning\\Soft Actor-Critic (SAC)\\Soft Actor-Critic (SAC).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Self-Organizing Maps (SOM)",
+        "contents": [
+          {
+            "name": "Self-Organizing Maps (SOM)",
+            "description": "A detailed resource on Self-Organizing Maps (SOM) in the context of Self-Organizing Maps (SOM).",
+            "documentation": "Deep Learning\\Self-Organizing Maps (SOM)\\SOM.pdf",
+            "tags": [
+              "Self"
+            ],
+            "path": "Deep Learning\\Self-Organizing Maps (SOM)\\Self-Organizing Maps (SOM).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Spiking Neural Networks (SNN)",
+        "contents": [
+          {
+            "name": "Spiking Neural Networks (SNN)",
+            "description": "A detailed resource on Spiking Neural Networks (SNN) in the context of Spiking Neural Networks (SNN).",
+            "documentation": "Deep Learning\\Spiking Neural Networks (SNN)\\SNNs.pdf",
+            "tags": [
+              "Spiking"
+            ],
+            "path": "Deep Learning\\Spiking Neural Networks (SNN)\\Spiking Neural Networks (SNN).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Transformer Models",
+        "contents": [
+          {
+            "name": "BERT (Bidirectional Encoder Representations from Transformers)",
+            "description": "A detailed resource on BERT (Bidirectional Encoder Representations from Transformers) in the context of Transformer Models.",
+            "documentation": "Deep Learning\\Transformer Models\\BERT (Bidirectional Encoder Representations from Transformers)\\Recurrent Neural Networks (RNNs) with Bidirectional.pdf",
+            "tags": [
+              "Transformer",
+              "BERT"
+            ],
+            "path": "Deep Learning\\Transformer Models\\BERT (Bidirectional Encoder Representations from Transformers)\\BERT.ipynb"
+          },
+          {
+            "name": "GPT (Generative Pretrained Transformer)",
+            "description": "A detailed resource on GPT (Generative Pretrained Transformer) in the context of Transformer Models.",
+            "documentation": "Deep Learning\\Transformer Models\\GPT (Generative Pretrained Transformer)\\Recurrent Neural Network (RNN) for Sequence Prediction.pdf",
+            "tags": [
+              "Transformer",
+              "GPT"
+            ],
+            "path": "Deep Learning\\Transformer Models\\GPT (Generative Pretrained Transformer)\\GPT (Generative Pretrained Transformer).ipynb"
+          },
+          {
+            "name": "RoBERTa",
+            "description": "A detailed resource on RoBERTa in the context of Transformer Models.",
+            "documentation": "Deep Learning\\Transformer Models\\RoBERTa\\RoBERTa.pdf",
+            "tags": [
+              "Transformer",
+              "RoBERTa"
+            ],
+            "path": "Deep Learning\\Transformer Models\\RoBERTa\\RoBERTa.ipynb"
+          },
+          {
+            "name": "T5 (Text-To-Text Transfer Transformer)",
+            "description": "A detailed resource on T5 (Text-To-Text Transfer Transformer) in the context of Transformer Models.",
+            "documentation": "Deep Learning\\Transformer Models\\T5 (Text-To-Text Transfer Transformer)\\T5.pdf",
+            "tags": [
+              "T5",
+              "Transformer"
+            ],
+            "path": "Deep Learning\\Transformer Models\\T5 (Text-To-Text Transfer Transformer)\\T5 (Text-To-Text Transfer Transformer).ipynb"
+          },
+          {
+            "name": "Transformer (Original architecture)",
+            "description": "A detailed resource on Transformer (Original architecture) in the context of Transformer Models.",
+            "documentation": "Deep Learning\\Transformer Models\\Transformer (Original architecture)\\Transformer Architecture.pdf",
+            "tags": [
+              "Transformer"
+            ],
+            "path": "Deep Learning\\Transformer Models\\Transformer (Original architecture)\\Transformer (Original Architecture).ipynb"
+          },
+          {
+            "name": "Transformer-XL",
+            "description": "A detailed resource on Transformer-XL in the context of Transformer Models.",
+            "documentation": "Deep Learning\\Transformer Models\\Transformer-XL\\Transformer-XL.pdf",
+            "tags": [
+              "Transformer"
+            ],
+            "path": "Deep Learning\\Transformer Models\\Transformer-XL\\Transformer-XL.ipynb"
+          },
+          {
+            "name": "Vision Transformers (ViT)",
+            "description": "A detailed resource on Vision Transformers (ViT) in the context of Transformer Models.",
+            "documentation": "Deep Learning\\Transformer Models\\Vision Transformers (ViT)\\ViT.pdf",
+            "tags": [
+              "Transformer",
+              "Vision"
+            ],
+            "path": "Deep Learning\\Transformer Models\\Vision Transformers (ViT)\\Vision Transformers (ViT).ipynb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Machine Learning",
+    "Subcategories": [
+      {
+        "Subcategory": "Reinforcement Learning Algorithms",
+        "contents": [
+          {
+            "name": "Actor-Critic Algorithms",
+            "description": "A detailed resource on Actor-Critic Algorithms in the context of Reinforcement Learning Algorithms.",
+            "documentation": "Machine Learning\\Reinforcement Learning Algorithms\\Actor-Critic Algorithms\\Actor-Critic Method.pdf",
+            "tags": [
+              "Reinforcement",
+              "Actor"
+            ],
+            "path": "Machine Learning\\Reinforcement Learning Algorithms\\Actor-Critic Algorithms\\Actor-Critic Methods.ipynb"
+          },
+          {
+            "name": "Evolutionary Algorithms",
+            "description": "A detailed resource on Evolutionary Algorithms in the context of Reinforcement Learning Algorithms.",
+            "documentation": "Machine Learning\\Reinforcement Learning Algorithms\\Evolutionary Algorithms\\Evolutionary Algorithms.pdf",
+            "tags": [
+              "Reinforcement",
+              "Evolutionary"
+            ],
+            "path": "Machine Learning\\Reinforcement Learning Algorithms\\Evolutionary Algorithms\\Evolutionary Algorithms.ipynb"
+          },
+          {
+            "name": "Exploration-Driven Algorithms",
+            "description": "A detailed resource on Exploration-Driven Algorithms in the context of Reinforcement Learning Algorithms.",
+            "documentation": "Machine Learning\\Reinforcement Learning Algorithms\\Exploration-Driven Algorithms\\UCB algorithm.pdf",
+            "tags": [
+              "Reinforcement",
+              "Exploration"
+            ],
+            "path": "Machine Learning\\Reinforcement Learning Algorithms\\Exploration-Driven Algorithms\\UCB.ipynb"
+          },
+          {
+            "name": "Model Based.ipynb",
+            "description": "A detailed resource on Model Based.ipynb in the context of Reinforcement Learning Algorithms.",
+            "documentation": "Machine Learning\\Reinforcement Learning Algorithms\\Model Based.ipynb\\Model Based Methods.pdf",
+            "tags": [
+              "Reinforcement",
+              "Model"
+            ],
+            "path": "Machine Learning\\Reinforcement Learning Algorithms\\Model Based.ipynb\\Model-Based Methods.ipynb"
+          },
+          {
+            "name": "Multi-Agent Reinforcement Learning (MARL)",
+            "description": "A detailed resource on Multi-Agent Reinforcement Learning (MARL) in the context of Reinforcement Learning Algorithms.",
+            "documentation": "Machine Learning\\Reinforcement Learning Algorithms\\Multi-Agent Reinforcement Learning (MARL)\\MARL.pdf",
+            "tags": [
+              "Reinforcement",
+              "Multi"
+            ],
+            "path": "Machine Learning\\Reinforcement Learning Algorithms\\Multi-Agent Reinforcement Learning (MARL)\\MARL.ipynb"
+          },
+          {
+            "name": "Policy-Based Algorithms",
+            "description": "A detailed resource on Policy-Based Algorithms in the context of Reinforcement Learning Algorithms.",
+            "documentation": "Machine Learning\\Reinforcement Learning Algorithms\\Policy-Based Algorithms\\Policy Based.pdf",
+            "tags": [
+              "Reinforcement",
+              "Policy"
+            ],
+            "path": "Machine Learning\\Reinforcement Learning Algorithms\\Policy-Based Algorithms\\REINFORCE.ipynb"
+          },
+          {
+            "name": "Value-Based Algorithms",
+            "description": "A detailed resource on Value-Based Algorithms in the context of Reinforcement Learning Algorithms.",
+            "documentation": "Machine Learning\\Reinforcement Learning Algorithms\\Value-Based Algorithms\\Q- Learning.pdf",
+            "tags": [
+              "Reinforcement",
+              "Value"
+            ],
+            "path": "Machine Learning\\Reinforcement Learning Algorithms\\Value-Based Algorithms\\Q-Learning.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Semi-Supervised Learning Algorithms",
+        "contents": [
+          {
+            "name": ".vscode",
+            "description": "A detailed resource on .vscode in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "",
+            "tags": [
+              ".vscode",
+              "Semi"
+            ],
+            "path": ""
+          },
+          {
+            "name": "Co-Training",
+            "description": "A detailed resource on Co-Training in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Semi-Supervised Learning Algorithms\\Co-Training\\Co-Training.pdf",
+            "tags": [
+              "Semi",
+              "Co"
+            ],
+            "path": "Machine Learning\\Semi-Supervised Learning Algorithms\\Co-Training\\Co-Training.ipynb"
+          },
+          {
+            "name": "Gaussian Mixture Models (GMM)",
+            "description": "A detailed resource on Gaussian Mixture Models (GMM) in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Semi-Supervised Learning Algorithms\\Generative Models\\Gaussian Mixture Models (GMM)\\Gaussian Mixture Models (GMM) with Scikit-Learn.pdf",
+            "tags": [
+              "Gaussian",
+              "Semi"
+            ],
+            "path": "Machine Learning\\Semi-Supervised Learning Algorithms\\Generative Models\\Gaussian Mixture Models (GMM)\\GMM.ipynb"
+          },
+          {
+            "name": "Variational Autoencoders (VAE)",
+            "description": "A detailed resource on Variational Autoencoders (VAE) in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Semi-Supervised Learning Algorithms\\Generative Models\\Variational Autoencoders (VAE)\\Variational Autoencoders (VAEs).pdf",
+            "tags": [
+              "Variational",
+              "Semi"
+            ],
+            "path": "Machine Learning\\Semi-Supervised Learning Algorithms\\Generative Models\\Variational Autoencoders (VAE)\\VAE.ipynb"
+          },
+          {
+            "name": "Label Propagation",
+            "description": "A detailed resource on Label Propagation in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Semi-Supervised Learning Algorithms\\Graph-Based Algorithms\\Label Propagation\\Label Propagation with Scikit-Learn .pdf",
+            "tags": [
+              "Semi",
+              "Label"
+            ],
+            "path": "Machine Learning\\Semi-Supervised Learning Algorithms\\Graph-Based Algorithms\\Label Propagation\\Labelpropagation.ipynb"
+          },
+          {
+            "name": "Label Spreading",
+            "description": "A detailed resource on Label Spreading in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Semi-Supervised Learning Algorithms\\Graph-Based Algorithms\\Label Spreading\\Label Spreading with Scikit-Learn.pdf",
+            "tags": [
+              "Semi",
+              "Label"
+            ],
+            "path": "Machine Learning\\Semi-Supervised Learning Algorithms\\Graph-Based Algorithms\\Label Spreading\\Label Spreading.ipynb"
+          },
+          {
+            "name": "Pseudo-Labeling",
+            "description": "A detailed resource on Pseudo-Labeling in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Semi-Supervised Learning Algorithms\\Pseudo-Labeling\\Pseudo-Labeling with Logistic Regression.pdf",
+            "tags": [
+              "Semi",
+              "Pseudo"
+            ],
+            "path": "Machine Learning\\Semi-Supervised Learning Algorithms\\Pseudo-Labeling\\Pseudo-Labeling.ipynb"
+          },
+          {
+            "name": "Reinforcement Learning with Semi-Supervision",
+            "description": "A detailed resource on Reinforcement Learning with Semi-Supervision in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Semi-Supervised Learning Algorithms\\Reinforcement Learning with Semi-Supervision\\Reinforcement Learning with Semi-Supervision.pdf",
+            "tags": [
+              "Reinforcement",
+              "Semi"
+            ],
+            "path": "Machine Learning\\Semi-Supervised Learning Algorithms\\Reinforcement Learning with Semi-Supervision\\Reinforcement Learning with Semi-Supervision.ipynb"
+          },
+          {
+            "name": "Self-Training",
+            "description": "A detailed resource on Self-Training in the context of Semi-Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Semi-Supervised Learning Algorithms\\Self-Training\\Self-Training.pdf",
+            "tags": [
+              "Semi",
+              "Self"
+            ],
+            "path": "Machine Learning\\Semi-Supervised Learning Algorithms\\Self-Training\\Self-Training Model.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Supervised Learning Algorithms",
+        "contents": [
+          {
+            "name": "Decision Trees",
+            "description": "A detailed resource on Decision Trees in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Decision Trees\\Decision Trees.pdf",
+            "tags": [
+              "Supervised",
+              "Decision"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Decision Trees\\Decision Trees.ipynb"
+          },
+          {
+            "name": "Gradient Boosting Machines (GBMs)",
+            "description": "A detailed resource on Gradient Boosting Machines (GBMs) in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Gradient Boosting Machines (GBMs)\\Gradient Boosting Machines.pdf",
+            "tags": [
+              "Supervised",
+              "Gradient"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Gradient Boosting Machines (GBMs)\\Gradient Boosting Machines (GBMs).ipynb"
+          },
+          {
+            "name": "k-Nearest Neighbors (k-NN)",
+            "description": "A detailed resource on k-Nearest Neighbors (k-NN) in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Classification\\k-Nearest Neighbors (k-NN)\\KNN.pdf",
+            "tags": [
+              "Supervised",
+              "k"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Classification\\k-Nearest Neighbors (k-NN)\\k-Nearest Neighbors (k-NN).ipynb"
+          },
+          {
+            "name": "Logistic Regression",
+            "description": "A detailed resource on Logistic Regression in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Logistic Regression\\Logistic Regression.pdf",
+            "tags": [
+              "Logistic",
+              "Supervised"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Logistic Regression\\Logistic Regression.ipynb"
+          },
+          {
+            "name": "Naïve Bayes",
+            "description": "A detailed resource on Naïve Bayes in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Naïve Bayes\\Naive Bayes.pdf",
+            "tags": [
+              "Naïve",
+              "Supervised"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Naïve Bayes\\Naive Bayes.ipynb"
+          },
+          {
+            "name": "Random Forest",
+            "description": "A detailed resource on Random Forest in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Random Forest\\Random Forest Classifier.pdf",
+            "tags": [
+              "Random",
+              "Supervised"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Random Forest\\Random Forest.ipynb"
+          },
+          {
+            "name": "Support Vector Machines (SVM)",
+            "description": "A detailed resource on Support Vector Machines (SVM) in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Support Vector Machines (SVM)\\SVM.pdf",
+            "tags": [
+              "Supervised",
+              "Support"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Classification\\Support Vector Machines (SVM)\\Support Vector Machines (SVM).ipynb"
+          },
+          {
+            "name": "Bagging",
+            "description": "A detailed resource on Bagging in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Ensemble Learning\\Bagging\\Bagging.pdf",
+            "tags": [
+              "Bagging",
+              "Supervised"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Ensemble Learning\\Bagging\\Bagging.ipynb"
+          },
+          {
+            "name": "Boosting",
+            "description": "A detailed resource on Boosting in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Ensemble Learning\\Boosting\\Boosting.pdf",
+            "tags": [
+              "Supervised",
+              "Boosting"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Ensemble Learning\\Boosting\\Boosting.ipynb"
+          },
+          {
+            "name": "Stacking",
+            "description": "A detailed resource on Stacking in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Ensemble Learning\\Stacking\\Stacking.pdf",
+            "tags": [
+              "Supervised",
+              "Stacking"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Ensemble Learning\\Stacking\\Stacking.ipynb"
+          },
+          {
+            "name": "Decision Tree Regression",
+            "description": "A detailed resource on Decision Tree Regression in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Decision Tree Regression\\Decision Tree Classification using Scikit-Learn.pdf",
+            "tags": [
+              "Supervised",
+              "Decision"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Decision Tree Regression\\Decision Tree Regression.ipynb"
+          },
+          {
+            "name": "Linear Regression",
+            "description": "A detailed resource on Linear Regression in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Linear Regression\\Linear Regression.pdf",
+            "tags": [
+              "Linear",
+              "Supervised"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Linear Regression\\LinearRegreesion.ipynb"
+          },
+          {
+            "name": "Polynomial Regression",
+            "description": "A detailed resource on Polynomial Regression in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Polynomial Regression\\Ploynomial Regression.pdf",
+            "tags": [
+              "Supervised",
+              "Polynomial"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Polynomial Regression\\PolynomialRegression.ipynb"
+          },
+          {
+            "name": "Ridge and Lasso Regression",
+            "description": "A detailed resource on Ridge and Lasso Regression in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Ridge and Lasso Regression\\Ridge and Lasso Regressions.pdf",
+            "tags": [
+              "Ridge",
+              "Supervised"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Ridge and Lasso Regression\\Ridge and Lasso Regression.ipynb"
+          },
+          {
+            "name": "Support Vector Regression (SVR)",
+            "description": "A detailed resource on Support Vector Regression (SVR) in the context of Supervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Support Vector Regression (SVR)\\Supprt Vector Regression.pdf",
+            "tags": [
+              "Supervised",
+              "Support"
+            ],
+            "path": "Machine Learning\\Supervised Learning Algorithms\\Regression\\Support Vector Regression (SVR)\\Support Vector Regression (SVR).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Unsupervised Learning Algorithms",
+        "contents": [
+          {
+            "name": "Isolation Forest",
+            "description": "A detailed resource on Isolation Forest in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Anomaly Detection\\Isolation Forest\\Isolation Forest.pdf",
+            "tags": [
+              "Isolation",
+              "Unsupervised"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Anomaly Detection\\Isolation Forest\\Isolation Forest.ipynb"
+          },
+          {
+            "name": "k-Means-Based Anomaly Detection",
+            "description": "A detailed resource on k-Means-Based Anomaly Detection in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Anomaly Detection\\k-Means-Based Anomaly Detection\\K -Means based Anamoly.pdf",
+            "tags": [
+              "Unsupervised",
+              "k"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Anomaly Detection\\k-Means-Based Anomaly Detection\\k-Means.ipynb"
+          },
+          {
+            "name": "One-Class SVM",
+            "description": "A detailed resource on One-Class SVM in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Anomaly Detection\\One-Class SVM\\One-SVM.pdf",
+            "tags": [
+              "Unsupervised",
+              "One"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Anomaly Detection\\One-Class SVM\\One-Class SVM.ipynb"
+          },
+          {
+            "name": "Apriori Algorithm",
+            "description": "A detailed resource on Apriori Algorithm in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Association Rule Learning\\Apriori Algorithm\\Apriori Analysis.pdf",
+            "tags": [
+              "Unsupervised",
+              "Apriori"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Association Rule Learning\\Apriori Algorithm\\Apriori.ipynb"
+          },
+          {
+            "name": "FP-Growth (Frequent Pattern Growth)",
+            "description": "A detailed resource on FP-Growth (Frequent Pattern Growth) in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Association Rule Learning\\FP-Growth (Frequent Pattern Growth)\\Fp growth.pdf",
+            "tags": [
+              "Unsupervised",
+              "FP"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Association Rule Learning\\FP-Growth (Frequent Pattern Growth)\\FP-Growth.ipynb"
+          },
+          {
+            "name": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise)",
+            "description": "A detailed resource on DBSCAN (Density-Based Spatial Clustering of Applications with Noise) in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Clustering Algorithms\\DBSCAN (Density-Based Spatial Clustering of Applications with Noise)\\DBSCAN.pdf",
+            "tags": [
+              "DBSCAN",
+              "Unsupervised"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Clustering Algorithms\\DBSCAN (Density-Based Spatial Clustering of Applications with Noise)\\DBSCAN.ipynb"
+          },
+          {
+            "name": "Gaussian Mixture Models (GMM)",
+            "description": "A detailed resource on Gaussian Mixture Models (GMM) in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Clustering Algorithms\\Gaussian Mixture Models (GMM)\\Gaussian Mixture models.pdf",
+            "tags": [
+              "Gaussian",
+              "Unsupervised"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Clustering Algorithms\\Gaussian Mixture Models (GMM)\\GMM.ipynb"
+          },
+          {
+            "name": "Hierarchical Clustering",
+            "description": "A detailed resource on Hierarchical Clustering in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Clustering Algorithms\\Hierarchical Clustering\\Heirarichal Clustering.pdf",
+            "tags": [
+              "Unsupervised",
+              "Hierarchical"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Clustering Algorithms\\Hierarchical Clustering\\Hierarchical Clustering.ipynb"
+          },
+          {
+            "name": "k-Means Clustering",
+            "description": "A detailed resource on k-Means Clustering in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Clustering Algorithms\\k-Means Clustering\\K - Means CLustering.pdf",
+            "tags": [
+              "Unsupervised",
+              "k"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Clustering Algorithms\\k-Means Clustering\\k-Means Clustering.ipynb"
+          },
+          {
+            "name": "Autoencoders",
+            "description": "A detailed resource on Autoencoders in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Dimensionality Reduction Algorithms\\Autoencoders\\Autoencoders.pdf",
+            "tags": [
+              "Unsupervised",
+              "Autoencoders"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Dimensionality Reduction Algorithms\\Autoencoders\\Autoencoders.ipynb"
+          },
+          {
+            "name": "Principal Component Analysis (PCA)",
+            "description": "A detailed resource on Principal Component Analysis (PCA) in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Dimensionality Reduction Algorithms\\Principal Component Analysis (PCA)\\PCA.pdf",
+            "tags": [
+              "Unsupervised",
+              "Principal"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Dimensionality Reduction Algorithms\\Principal Component Analysis (PCA)\\PCA.ipynb"
+          },
+          {
+            "name": "Singular Value Decomposition (SVD)",
+            "description": "A detailed resource on Singular Value Decomposition (SVD) in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Dimensionality Reduction Algorithms\\Singular Value Decomposition (SVD)\\SVD.pdf",
+            "tags": [
+              "Unsupervised",
+              "Singular"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Dimensionality Reduction Algorithms\\Singular Value Decomposition (SVD)\\SVD.ipynb"
+          },
+          {
+            "name": "t-SNE (t-Distributed Stochastic Neighbor Embedding)",
+            "description": "A detailed resource on t-SNE (t-Distributed Stochastic Neighbor Embedding) in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Dimensionality Reduction Algorithms\\t-SNE (t-Distributed Stochastic Neighbor Embedding)\\t-SNE.pdf",
+            "tags": [
+              "Unsupervised",
+              "t"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Dimensionality Reduction Algorithms\\t-SNE (t-Distributed Stochastic Neighbor Embedding)\\t-SNE.ipynb"
+          },
+          {
+            "name": "Generative Adversarial Networks (GANs)",
+            "description": "A detailed resource on Generative Adversarial Networks (GANs) in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Neural Network-Based Models\\Generative Adversarial Networks (GANs)\\GANS.pdf",
+            "tags": [
+              "Unsupervised",
+              "Generative"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Neural Network-Based Models\\Generative Adversarial Networks (GANs)\\GANs.ipynb"
+          },
+          {
+            "name": "Self-Organizing Maps (SOM)",
+            "description": "A detailed resource on Self-Organizing Maps (SOM) in the context of Unsupervised Learning Algorithms.",
+            "documentation": "Machine Learning\\Unsupervised Learning Algorithms\\Neural Network-Based Models\\Self-Organizing Maps (SOM)\\SOM.pdf",
+            "tags": [
+              "Unsupervised",
+              "Self"
+            ],
+            "path": "Machine Learning\\Unsupervised Learning Algorithms\\Neural Network-Based Models\\Self-Organizing Maps (SOM)\\SOM.ipynb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "NLP",
+    "Subcategories": [
+      {
+        "Subcategory": "Anomaly Detection in Text",
+        "contents": [
+          {
+            "name": "Anomaly Detection in Text",
+            "description": "A detailed resource on Anomaly Detection in Text in the context of Anomaly Detection in Text.",
+            "documentation": "NLP\\Anomaly Detection in Text\\Transformers for Outlier Detection.pdf",
+            "tags": [
+              "Anomaly"
+            ],
+            "path": "NLP\\Anomaly Detection in Text\\Transformers for Outlier Detection.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Coreference Resolution",
+        "contents": [
+          {
+            "name": "Coreference Resolution",
+            "description": "A detailed resource on Coreference Resolution in the context of Coreference Resolution.",
+            "documentation": "NLP\\Coreference Resolution\\Rule-Based Methods.pdf",
+            "tags": [
+              "Coreference"
+            ],
+            "path": "NLP\\Coreference Resolution\\Rule-Based Methods.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Dependency Parsing",
+        "contents": [
+          {
+            "name": "Dependency Parsing",
+            "description": "A detailed resource on Dependency Parsing in the context of Dependency Parsing.",
+            "documentation": "NLP\\Dependency Parsing\\Transition-Based Parsing.pdf",
+            "tags": [
+              "Dependency"
+            ],
+            "path": "NLP\\Dependency Parsing\\Transition-Based Parsing.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Language Models",
+        "contents": [
+          {
+            "name": "Neural Language Models",
+            "description": "A detailed resource on Neural Language Models in the context of Language Models.",
+            "documentation": "NLP\\Language Models\\Neural Language Models\\RNN.pdf",
+            "tags": [
+              "Language",
+              "Neural"
+            ],
+            "path": "NLP\\Language Models\\Neural Language Models\\Recurrent Neural Networks (RNNs).ipynb"
+          },
+          {
+            "name": "Statistical Models",
+            "description": "A detailed resource on Statistical Models in the context of Language Models.",
+            "documentation": "NLP\\Language Models\\Statistical Models\\n-Gram models.pdf",
+            "tags": [
+              "Language",
+              "Statistical"
+            ],
+            "path": "NLP\\Language Models\\Statistical Models\\n-Gram Models.ipynb"
+          },
+          {
+            "name": "Transformer Models",
+            "description": "A detailed resource on Transformer Models in the context of Language Models.",
+            "documentation": "NLP\\Language Models\\Transformer Models\\XLNet.pdf",
+            "tags": [
+              "Language",
+              "Transformer"
+            ],
+            "path": "NLP\\Language Models\\Transformer Models\\XLNet.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Named Entity Recognition (NER)",
+        "contents": [
+          {
+            "name": "Deep Learning Models",
+            "description": "A detailed resource on Deep Learning Models in the context of Named Entity Recognition (NER).",
+            "documentation": "NLP\\Named Entity Recognition (NER)\\Deep Learning Models\\NER.pdf",
+            "tags": [
+              "Deep",
+              "Named"
+            ],
+            "path": "NLP\\Named Entity Recognition (NER)\\Deep Learning Models\\Transformer-Based Models (BERT, Flair).ipynb"
+          },
+          {
+            "name": "Statistical Models",
+            "description": "A detailed resource on Statistical Models in the context of Named Entity Recognition (NER).",
+            "documentation": "NLP\\Named Entity Recognition (NER)\\Statistical Models\\HMMs.pdf",
+            "tags": [
+              "Named",
+              "Statistical"
+            ],
+            "path": "NLP\\Named Entity Recognition (NER)\\Statistical Models\\Hidden Markov Models (HMMs).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Question Answering",
+        "contents": [
+          {
+            "name": "Extractive QA",
+            "description": "A detailed resource on Extractive QA in the context of Question Answering.",
+            "documentation": "NLP\\Question Answering\\Extractive QA\\SpanBERT.pdf",
+            "tags": [
+              "Extractive",
+              "Question"
+            ],
+            "path": "NLP\\Question Answering\\Extractive QA\\SpanBERT.ipynb"
+          },
+          {
+            "name": "Generative QA",
+            "description": "A detailed resource on Generative QA in the context of Question Answering.",
+            "documentation": "NLP\\Question Answering\\Generative QA\\Text-To-Text.pdf",
+            "tags": [
+              "Generative",
+              "Question"
+            ],
+            "path": "NLP\\Question Answering\\Generative QA\\T5 (Text-To-Text Transfer Transformer).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Reinforcement Learning",
+        "contents": [
+          {
+            "name": "Reinforcement Learning",
+            "description": "A detailed resource on Reinforcement Learning in the context of Reinforcement Learning.",
+            "documentation": "NLP\\Reinforcement Learning\\Fine-Tuning.pdf",
+            "tags": [
+              "Reinforcement"
+            ],
+            "path": "NLP\\Reinforcement Learning\\Fine-tuning GPT using RLHF.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Sentiment Analysis",
+        "contents": [
+          {
+            "name": "Deep Learning Approaches",
+            "description": "A detailed resource on Deep Learning Approaches in the context of Sentiment Analysis.",
+            "documentation": "NLP\\Sentiment Analysis\\Deep Learning Approaches\\LSTM.pdf",
+            "tags": [
+              "Deep",
+              "Sentiment"
+            ],
+            "path": "NLP\\Sentiment Analysis\\Deep Learning Approaches\\Transformers (BERT).ipynb"
+          },
+          {
+            "name": "Lexicon-Based Approaches",
+            "description": "A detailed resource on Lexicon-Based Approaches in the context of Sentiment Analysis.",
+            "documentation": "NLP\\Sentiment Analysis\\Lexicon-Based Approaches\\VADER.pdf",
+            "tags": [
+              "Lexicon",
+              "Sentiment"
+            ],
+            "path": "NLP\\Sentiment Analysis\\Lexicon-Based Approaches\\VADER (Valence Aware Dictionary and sEntiment Reasoner).ipynb"
+          },
+          {
+            "name": "Machine Learning Approaches",
+            "description": "A detailed resource on Machine Learning Approaches in the context of Sentiment Analysis.",
+            "documentation": "NLP\\Sentiment Analysis\\Machine Learning Approaches\\Support Vector Machines.pdf",
+            "tags": [
+              "Machine",
+              "Sentiment"
+            ],
+            "path": "NLP\\Sentiment Analysis\\Machine Learning Approaches\\Support Vector Machines (SVM).ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Speech Recognition and Generation",
+        "contents": [
+          {
+            "name": "Speech-to-Text",
+            "description": "A detailed resource on Speech-to-Text in the context of Speech Recognition and Generation.",
+            "documentation": "NLP\\Speech Recognition and Generation\\Speech-to-Text\\Wav2Vec2.pdf",
+            "tags": [
+              "Speech"
+            ],
+            "path": "NLP\\Speech Recognition and Generation\\Speech-to-Text\\Wav2Vec (Transformer-based).ipynb"
+          },
+          {
+            "name": "Text-to-Speech",
+            "description": "A detailed resource on Text-to-Speech in the context of Speech Recognition and Generation.",
+            "documentation": "NLP\\Speech Recognition and Generation\\Text-to-Speech\\WaveNet.pdf",
+            "tags": [
+              "Text",
+              "Speech"
+            ],
+            "path": "NLP\\Speech Recognition and Generation\\Text-to-Speech\\WaveNet.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Summarization",
+        "contents": [
+          {
+            "name": "Abstractive Summarization",
+            "description": "A detailed resource on Abstractive Summarization in the context of Summarization.",
+            "documentation": "NLP\\Summarization\\Abstractive Summarization\\T5 Model.pdf",
+            "tags": [
+              "Summarization",
+              "Abstractive"
+            ],
+            "path": "NLP\\Summarization\\Abstractive Summarization\\Transformers (BART, T5).ipynb"
+          },
+          {
+            "name": "Extractive Summarization",
+            "description": "A detailed resource on Extractive Summarization in the context of Summarization.",
+            "documentation": "NLP\\Summarization\\Extractive Summarization\\TextRank.pdf",
+            "tags": [
+              "Extractive",
+              "Summarization"
+            ],
+            "path": "NLP\\Summarization\\Extractive Summarization\\TextRank.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Text Classification",
+        "contents": [
+          {
+            "name": "Deep Learning Models",
+            "description": "A detailed resource on Deep Learning Models in the context of Text Classification.",
+            "documentation": "NLP\\Text Classification\\Deep Learning Models\\RNN.pdf",
+            "tags": [
+              "Deep",
+              "Text"
+            ],
+            "path": "NLP\\Text Classification\\Deep Learning Models\\RNN (Recurrent Neural Networks).ipynb"
+          },
+          {
+            "name": "Transformer-Based Models (BERT, RoBERTa",
+            "description": "A detailed resource on Transformer-Based Models (BERT, RoBERTa in the context of Text Classification.",
+            "documentation": "NLP\\Text Classification\\Deep Learning Models\\Transformer-Based Models (BERT, RoBERTa\\RoBERTa.pdf",
+            "tags": [
+              "Transformer",
+              "Text"
+            ],
+            "path": "NLP\\Text Classification\\Deep Learning Models\\Transformer-Based Models (BERT, RoBERTa\\RoBERTa.ipynb"
+          },
+          {
+            "name": "Machine Learning Models",
+            "description": "A detailed resource on Machine Learning Models in the context of Text Classification.",
+            "documentation": "NLP\\Text Classification\\Machine Learning Models\\SVM.pdf",
+            "tags": [
+              "Machine",
+              "Text"
+            ],
+            "path": "NLP\\Text Classification\\Machine Learning Models\\Support Vector Machines (SVM).ipynb"
+          },
+          {
+            "name": "Rule-Based Algorithms",
+            "description": "A detailed resource on Rule-Based Algorithms in the context of Text Classification.",
+            "documentation": "NLP\\Text Classification\\Rule-Based Algorithms\\Regular Expressions.pdf",
+            "tags": [
+              "Rule",
+              "Text"
+            ],
+            "path": "NLP\\Text Classification\\Rule-Based Algorithms\\Regular Expressions.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Text Preprocessing",
+        "contents": [
+          {
+            "name": "Lemmatization",
+            "description": "A detailed resource on Lemmatization in the context of Text Preprocessing.",
+            "documentation": "NLP\\Text Preprocessing\\Lemmatization\\Lemmatization.pdf",
+            "tags": [
+              "Text",
+              "Lemmatization"
+            ],
+            "path": "NLP\\Text Preprocessing\\Lemmatization\\Lemmatization.ipynb"
+          },
+          {
+            "name": "Stemming",
+            "description": "A detailed resource on Stemming in the context of Text Preprocessing.",
+            "documentation": "NLP\\Text Preprocessing\\Stemming\\Stemming.pdf",
+            "tags": [
+              "Text",
+              "Stemming"
+            ],
+            "path": "NLP\\Text Preprocessing\\Stemming\\Stemming.ipynb"
+          },
+          {
+            "name": "Stopword Removal",
+            "description": "A detailed resource on Stopword Removal in the context of Text Preprocessing.",
+            "documentation": "NLP\\Text Preprocessing\\Stopword Removal\\Stopword Removal.pdf",
+            "tags": [
+              "Stopword",
+              "Text"
+            ],
+            "path": "NLP\\Text Preprocessing\\Stopword Removal\\Stopword Removal.ipynb"
+          },
+          {
+            "name": "Text Normalization",
+            "description": "A detailed resource on Text Normalization in the context of Text Preprocessing.",
+            "documentation": "NLP\\Text Preprocessing\\Text Normalization\\Text Normalization.pdf",
+            "tags": [
+              "Text"
+            ],
+            "path": "NLP\\Text Preprocessing\\Text Normalization\\Text Normalisation.ipynb"
+          },
+          {
+            "name": "Tokenization",
+            "description": "A detailed resource on Tokenization in the context of Text Preprocessing.",
+            "documentation": "NLP\\Text Preprocessing\\Tokenization\\Tokenization.pdf",
+            "tags": [
+              "Tokenization",
+              "Text"
+            ],
+            "path": "NLP\\Text Preprocessing\\Tokenization\\Tokenization.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Text Representation",
+        "contents": [
+          {
+            "name": "Bag of Words (BoW)",
+            "description": "A detailed resource on Bag of Words (BoW) in the context of Text Representation.",
+            "documentation": "NLP\\Text Representation\\Bag of Words (BoW)\\(BoW.pdf",
+            "tags": [
+              "Text",
+              "Bag"
+            ],
+            "path": "NLP\\Text Representation\\Bag of Words (BoW)\\Bag of Words (BoW).ipynb"
+          },
+          {
+            "name": "Contextual Embeddings",
+            "description": "A detailed resource on Contextual Embeddings in the context of Text Representation.",
+            "documentation": "NLP\\Text Representation\\Contextual Embeddings\\GPT.pdf",
+            "tags": [
+              "Text",
+              "Contextual"
+            ],
+            "path": "NLP\\Text Representation\\Contextual Embeddings\\GPT (Generative Pretrained Transformer).ipynb"
+          },
+          {
+            "name": "TF-IDF (Term Frequency-Inverse Document Frequency)",
+            "description": "A detailed resource on TF-IDF (Term Frequency-Inverse Document Frequency) in the context of Text Representation.",
+            "documentation": "NLP\\Text Representation\\TF-IDF (Term Frequency-Inverse Document Frequency)\\TF-IDF.pdf",
+            "tags": [
+              "TF",
+              "Text"
+            ],
+            "path": "NLP\\Text Representation\\TF-IDF (Term Frequency-Inverse Document Frequency)\\TF-IDF (Term Frequency-Inverse Document Frequency).ipynb"
+          },
+          {
+            "name": "Word Embeddings",
+            "description": "A detailed resource on Word Embeddings in the context of Text Representation.",
+            "documentation": "NLP\\Text Representation\\Word Embeddings\\Word2Vec.pdf",
+            "tags": [
+              "Text",
+              "Word"
+            ],
+            "path": "NLP\\Text Representation\\Word Embeddings\\Word2Vec.ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Text Similarity",
+        "contents": [
+          {
+            "name": "Text Similarity",
+            "description": "A detailed resource on Text Similarity in the context of Text Similarity.",
+            "documentation": "NLP\\Text Similarity\\Sentence Transformers.pdf",
+            "tags": [
+              "Text"
+            ],
+            "path": "NLP\\Text Similarity\\Sentence Transformers .ipynb"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Topic Modeling",
+        "contents": [
+          {
+            "name": "Topic Modeling",
+            "description": "A detailed resource on Topic Modeling in the context of Topic Modeling.",
+            "documentation": "NLP\\Topic Modeling\\Non-Negative Matrix Factorization (NMF).pdf",
+            "tags": [
+              "Topic"
+            ],
+            "path": "NLP\\Topic Modeling\\Non-Negative Matrix Factorization (NMF).ipynb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "SQL",
+    "Subcategories": [
+      {
+        "Subcategory": "DCL",
+        "contents": [
+          {
+            "name": "DCL",
+            "description": "A detailed resource on DCL in the context of DCL.",
+            "documentation": "SQL\\DCL\\DCL.pdf",
+            "tags": [
+              "DCL"
+            ],
+            "path": "SQL\\DCL\\dcl_commands.sql"
+          }
+        ]
+      },
+      {
+        "Subcategory": "DDL",
+        "contents": [
+          {
+            "name": "DDL",
+            "description": "A detailed resource on DDL in the context of DDL.",
+            "documentation": "SQL\\DDL\\DDL.pdf",
+            "tags": [
+              "DDL"
+            ],
+            "path": "SQL\\DCL\\ddl_commands.sql"
+          }
+        ]
+      },
+      {
+        "Subcategory": "DML",
+        "contents": [
+          {
+            "name": "DML",
+            "description": "A detailed resource on DML in the context of DML.",
+            "documentation": "SQL\\DML\\DML.pdf",
+            "tags": [
+              "DML"
+            ],
+            "path": "SQL\\DCL\\dml_commands.sql"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Queries",
+        "contents": [
+          {
+            "name": "Queries",
+            "description": "A detailed resource on Queries in the context of Queries.",
+            "documentation": "SQL\\Queries\\Queries.pdf",
+            "tags": [
+              "Queries"
+            ],
+            "path": "SQL\\DCL\\queries.sql"
+          }
+        ]
+      },
+      {
+        "Subcategory": "TCL",
+        "contents": [
+          {
+            "name": "TCL",
+            "description": "A detailed resource on TCL in the context of TCL.",
+            "documentation": "SQL\\TCL\\TCL.pdf",
+            "tags": [
+              "TCL"
+            ],
+            "path": "SQL\\DCL\\tcl_commands.sql"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Web Development",
+    "Subcategories": [
+      {
+        "Subcategory": "Blogging",
+        "contents": [
+          {
+            "name": "React Blogging",
+            "description": "A detailed resource on Blogging-App-React.js-main in the context of Web Development.",
+            "documentation": "Web Development/Blogging-App-React.js-main/Readme.pdf",
+            "tags": [
+              "Web Development"
+            ],
+            "path": "Web Development/Blogging-App-React.js-main/Blogging-App-React.js-main.zip"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Ecommerce",
+        "contents": [
+          {
+            "name": "React Ecommerce Template",
+            "description": "A detailed resource on react-ecommerce-template-main in the context of Web Development.",
+            "documentation": "Web Development/react-ecommerce-template-main/Readme.pdf",
+            "tags": [
+              "Web Development"
+            ],
+            "path": "Web Development/react-ecommerce-template-main/react-ecommerce-template-main.zip"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Project Manager",
+        "contents": [
+          {
+            "name": "React Project Manager",
+            "description": "A detailed resource on react-project-manager-main in the context of Web Development.",
+            "documentation": "Web Development/react-project-manager-main/Readme.pdf",
+            "tags": [
+              "Web Development"
+            ],
+            "path": "Web Development/react-project-manager-main/react-project-manager-main.zip"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Todo-List",
+        "contents": [
+          {
+            "name": "React Todo List",
+            "description": "A detailed resource on Todo-List-React in the context of Web Development.",
+            "documentation": "Web Development/Todo-List-React/Readme.pdf",
+            "tags": [
+              "Web Development"
+            ],
+            "path": "Web Development/Todo-List-React/Todo-List-React.zip"
+          }
+        ]
+      },
+      {
+        "Subcategory": "Weather",
+        "contents": [
+          {
+            "name": "React Weather App",
+            "description": "A detailed resource on weatherApp-Reactjs-master in the context of Web Development.",
+            "documentation": "Web Development/weatherApp-Reactjs-master/readme.pdf",
+            "tags": [
+              "Web Development"
+            ],
+            "path": "Web Development/weatherApp-Reactjs-master/weatherApp-Reactjs-master.zip"
+          }
+        ]
+      }
+    ]
+  }
+]

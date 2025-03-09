@@ -35,21 +35,8 @@ body {
 }
 
 
-.bannerbox {
-  position: absolute;
-  /* left: 80%; */
-  top: 12vh;
-  width: 100%;
-  transform: translateX(19%);
-}
 
 
-.cardbox1 {
-  top: 50vh;
-  width: 70%;
-  position: absolute;
-  height: 340px;
-}
 
 
 

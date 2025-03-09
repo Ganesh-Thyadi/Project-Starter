@@ -1,0 +1,243 @@
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+  /* Main container */
+  .card-container {
+    display: flex;
+    width: 100%;
+    overflow: scroll;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #fff;
+    font-family: 'JetBrains Mono', monospace;
+    scrollbar-color: #007bff #fff;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+  }
+
+
+
+  /* Filter section */
+  .filter-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Category dropdown */
+  .filter-dropdown {
+    padding: 10px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: white;
+    transition: border 0.3s;
+    cursor: pointer;
+  }
+
+  .filter-dropdown:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+
+  /* Search and add button container */
+  .search-add-container {
+    display: flex;
+    gap: 10px;
+    flex: 1;
+    justify-content: flex-end;
+  }
+
+  /* Search input */
+  .search-input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'JetBrains Mono', monospace;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border 0.3s;
+    min-width: 200px;
+  }
+
+  .search-input:focus {
+    border-color: #007bff;
+  }
+
+  /* Add Card Button */
+  .add-card-button {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+
+  .add-card-button:hover {
+    background: #218838;
+  }
+
+  /* Category section */
+  .category-container {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .category-container h2 {
+    color: #333;
+    font-size: 22px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+
+  /* Card grid */
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 15px;
+  }
+
+  /* Individual card */
+  .card {
+    background: #fff;
+    padding: 15px;
+    overflow: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  /* Card text */
+  .card h3 {
+    color: #007bff;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .card p {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 10px;
+  }
+
+
+  .tags {
+    display: flex;  /* Ensure tags are displayed inline */
+    flex-wrap: wrap; /* Allow wrapping if too many tags */
+    gap: 5px;  /* Add spacing between tags */
+  }
+  
+  .tag {
+    width: fit-content;
+    border-radius: 5px;
+    background-color: #ccc;
+    padding: 5px 10px;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+  }
+
+  .desc-link{
+    margin-top: 5px;
+  }
+  
+.no-doc-message{
+  margin-top: 5px;
+}
+
+  /* Download button */
+  .download-button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-family: 'JetBrains Mono', monospace;
+    cursor: pointer;
+    transition: background 0.3s;
+    align-self: flex-start;
+  }
+
+  .download-button:hover {
+    background: #0056b3;
+  }
+
+  /* No cards message */
+  .no-cards-message {
+    text-align: center;
+    font-size: 16px;
+    color: #777;
+  }
+
+  .add-card-button {
+    background: #007bff;
+    color: white;
+    border: none;
+    width: 20%;
+    font-family: 'JetBrains Mono', monospace;
+    padding: 10px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+    margin-left: 10px;
+  }
+
+  .add-card-button:hover {
+    background: #0056b3;
+  }
+
+  .success-message {
+    color: green;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+
+
+  .subcategory-group{
+    color: #333;
+    font-size: 18px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    margin: 20px;
+    
+  }
+
+
+  .subcategory-title {
+    color: #333;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    width: fit-content;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }

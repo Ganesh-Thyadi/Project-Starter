@@ -3,11 +3,19 @@
 
 .dashboard {
   display: flex; /* Flex layout for the dashboard */
+  flex-direction: column;
   height: 100vh; /* Full height of the viewport */
 }
 
-body{
-  overflow: hidden;
+.dashboard{
+  
+  overflow-x: hidden;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+body::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
   font-family: 'JetBrains Mono', monospace;
 }
 
